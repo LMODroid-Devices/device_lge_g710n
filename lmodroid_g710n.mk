@@ -24,7 +24,7 @@ PRODUCT_SOONG_NAMESPACES += \
 $(call inherit-product, vendor/lge/g710n/g710n-vendor.mk)
 
 # Device identifiers
-PRODUCT_NAME := lineage_g710n
+PRODUCT_NAME := lmodroid_g710n
 PRODUCT_DEVICE := g710n
 PRODUCT_BRAND := lge
 PRODUCT_MANUFACTURER := LGE
